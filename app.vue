@@ -1,5 +1,6 @@
 <template>
-  <div class="flex justify-center items-center w-full h-screen">
-    <h1 class="flex-col md:text-5xl text-center text-3xl">Under Construction...</h1>
+  <div class="flex flex-col justify-center items-center w-full h-screen bg-black">
+    <img class="pb-4" src="./assets/gif/sbjkt-gif.gif" />
+    <h1 class="flex-col md:text-5xl text-center text-3xl text-white">Under Construction...</h1>
   </div>
 </template>
